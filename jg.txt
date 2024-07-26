@@ -6,3 +6,4 @@ Git practice again on july 18th
 git practice july22nd
 git practice july23rd
 git practice july24th
+git practice july26th
